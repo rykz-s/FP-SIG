@@ -1,0 +1,2615 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Tanjungsari",
+        "K_Konfirmasi": 92,
+        "K_Sembuh": 82,
+        "K_Meninggal": 8,
+        "Perawatan": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.69311904907227,
+          -7.268310828491802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Sonokwijenan",
+        "K_Konfirmasi": 33,
+        "K_Sembuh": 32,
+        "K_Meninggal": 1,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.70084381103516,
+          -7.278272215208115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Putat Gede",
+        "K_Konfirmasi": 43,
+        "K_Sembuh": 39,
+        "K_Meninggal": 4,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.70228147506714,
+          -7.286594486239571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Simomulyo",
+        "K_Konfirmasi": 187,
+        "K_Sembuh": 173,
+        "K_Meninggal": 12,
+        "Perawatan": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.70916938781738,
+          -7.265671449683411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Sukomanunggal",
+        "K_Konfirmasi": 70,
+        "K_Sembuh": 67,
+        "K_Meninggal": 3,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.69929885864258,
+          -7.262691487236968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Simomulyo Baru",
+        "K_Konfirmasi": 156,
+        "K_Sembuh": 138,
+        "K_Meninggal": 17,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7047061920166,
+          -7.265245741972106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Manukan Kulon",
+        "K_Konfirmasi": 252,
+        "K_Sembuh": 233,
+        "K_Meninggal": 14,
+        "Perawatan": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.66960144042969,
+          -7.263713190872701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Manukan Wetan",
+        "K_Konfirmasi": 45,
+        "K_Sembuh": 42,
+        "K_Meninggal": 3,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.67492294311523,
+          -7.25783836326463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Banjar Sugihan",
+        "K_Konfirmasi": 33,
+        "K_Sembuh": 29,
+        "K_Meninggal": 4,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.663893699646,
+          -7.256476073439558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Karangpoh",
+        "K_Konfirmasi": 61,
+        "K_Sembuh": 56,
+        "K_Meninggal": 4,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.68432140350342,
+          -7.260946071488087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Tandes",
+        "K_Konfirmasi": 65,
+        "K_Sembuh": 58,
+        "K_Meninggal": 3,
+        "Perawatan": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.68857002258301,
+          -7.263330052281416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Balongsari",
+        "K_Konfirmasi": 54,
+        "K_Sembuh": 47,
+        "K_Meninggal": 2,
+        "Perawatan": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.67809867858885,
+          -7.260052075432053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Asemrowo",
+        "K_Konfirmasi": 176,
+        "K_Sembuh": 165,
+        "K_Meninggal": 11,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.70565032958984,
+          -7.246854784171428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Genting Kalianak",
+        "K_Konfirmasi": 15,
+        "K_Sembuh": 15,
+        "K_Meninggal": 0,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.70603656768797,
+          -7.2366372609057015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.68136024475098,
+          -7.236552113905955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Sememi",
+        "K_Konfirmasi": 253,
+        "K_Sembuh": 235,
+        "K_Meninggal": 16,
+        "Perawatan": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.64496803283691,
+          -7.254262343677752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Kandangan",
+        "K_Konfirmasi": 156,
+        "K_Sembuh": 148,
+        "K_Meninggal": 7,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6578426361084,
+          -7.2540920563219915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Romokalisari",
+        "K_Konfirmasi": 13,
+        "K_Sembuh": 11,
+        "K_Meninggal": 2,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.64140605926514,
+          -7.209602282173494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Tambakoso Wilangon",
+        "K_Konfirmasi": 18,
+        "K_Sembuh": 16,
+        "K_Meninggal": 2,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.65398025512695,
+          -7.22641950626807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Pakal",
+        "K_Konfirmasi": 67,
+        "K_Sembuh": 61,
+        "K_Meninggal": 5,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.62745857238768,
+          -7.246684494014693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Babat Jerawat",
+        "K_Konfirmasi": 168,
+        "K_Sembuh": 158,
+        "K_Meninggal": 9,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.63445377349854,
+          -7.252176319131015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Sumberejo",
+        "K_Konfirmasi": 49,
+        "K_Sembuh": 46,
+        "K_Meninggal": 2,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.60239601135254,
+          -7.228037332822715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Benowo",
+        "K_Konfirmasi": 91,
+        "K_Sembuh": 85,
+        "K_Meninggal": 4,
+        "Perawatan": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6170301437378,
+          -7.242767802650232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Jeruk",
+        "K_Konfirmasi": 31,
+        "K_Sembuh": 28,
+        "K_Meninggal": 2,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.64462471008301,
+          -7.29793891873367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Lakarsantri",
+        "K_Konfirmasi": 27,
+        "K_Sembuh": 25,
+        "K_Meninggal": 0,
+        "Perawatan": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.63389587402344,
+          -7.297853783350403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Lidah Kulon",
+        "K_Konfirmasi": 108,
+        "K_Sembuh": 103,
+        "K_Meninggal": 5,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.65552520751953,
+          -7.299726758039678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Lidah Wetan",
+        "K_Konfirmasi": 75,
+        "K_Sembuh": 65,
+        "K_Meninggal": 8,
+        "Perawatan": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6669406890869,
+          -7.303387549557394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Bangkingan",
+        "K_Konfirmasi": 75,
+        "K_Sembuh": 71,
+        "K_Meninggal": 3,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.65758514404297,
+          -7.3228828874776655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Sumur Welut",
+        "K_Konfirmasi": 38,
+        "K_Sembuh": 34,
+        "K_Meninggal": 2,
+        "Perawatan": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.66934394836426,
+          -7.325096278114419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Lontar",
+        "K_Konfirmasi": 257,
+        "K_Sembuh": 235,
+        "K_Meninggal": 15,
+        "Perawatan": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.66857147216795,
+          -7.278272215208115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Sambikerep",
+        "K_Konfirmasi": 127,
+        "K_Sembuh": 121,
+        "K_Meninggal": 6,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.65483856201172,
+          -7.27733568399214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Made",
+        "K_Konfirmasi": 47,
+        "K_Sembuh": 44,
+        "K_Meninggal": 2,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.63715744018555,
+          -7.277420823274386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Bringin",
+        "K_Konfirmasi": 35,
+        "K_Sembuh": 32,
+        "K_Meninggal": 3,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.64436721801758,
+          -7.2642240418197686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Peneleh",
+        "K_Konfirmasi": 62,
+        "K_Sembuh": 56,
+        "K_Meninggal": 5,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74152755737305,
+          -7.252091175066654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Kapasari",
+        "K_Konfirmasi": 77,
+        "K_Sembuh": 66,
+        "K_Meninggal": 11,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74667739868164,
+          -7.24728050928169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Genteng",
+        "K_Konfirmasi": 62,
+        "K_Sembuh": 60,
+        "K_Meninggal": 2,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74084091186523,
+          -7.2597115050385055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Ketabang",
+        "K_Konfirmasi": 67,
+        "K_Sembuh": 61,
+        "K_Meninggal": 6,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74641990661621,
+          -7.257753220271403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Embong Kaliasin",
+        "K_Konfirmasi": 72,
+        "K_Sembuh": 66,
+        "K_Meninggal": 5,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74298667907715,
+          -7.2678851232811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Kedungdoro",
+        "K_Konfirmasi": 122,
+        "K_Sembuh": 109,
+        "K_Meninggal": 13,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73560523986816,
+          -7.2632449103278995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Tegalsari",
+        "K_Konfirmasi": 128,
+        "K_Sembuh": 112,
+        "K_Meninggal": 15,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73745059967041,
+          -7.269502800935558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Dr. Soetomo",
+        "K_Konfirmasi": 119,
+        "K_Sembuh": 109,
+        "K_Meninggal": 10,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73526191711426,
+          -7.281081797124359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Keputran",
+        "K_Konfirmasi": 105,
+        "K_Sembuh": 98,
+        "K_Meninggal": 6,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7428150177002,
+          -7.282358873994917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Wonorejo",
+        "K_Konfirmasi": 150,
+        "K_Sembuh": 132,
+        "K_Meninggal": 18,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73234367370604,
+          -7.270439348493731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Tembok Dukuh",
+        "K_Konfirmasi": 155,
+        "K_Sembuh": 143,
+        "K_Meninggal": 11,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.72204399108887,
+          -7.254815777139034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Jepara",
+        "K_Konfirmasi": 161,
+        "K_Sembuh": 150,
+        "K_Meninggal": 9,
+        "Perawatan": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.72530555725098,
+          -7.240319853266955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Alon Alon Contong",
+        "K_Konfirmasi": 2,
+        "K_Sembuh": 109,
+        "K_Meninggal": 13,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73740768432617,
+          -7.250814012169229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Gundih",
+        "K_Konfirmasi": 145,
+        "K_Sembuh": 132,
+        "K_Meninggal": 13,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.72517681121826,
+          -7.249281411911182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Bubutan",
+        "K_Konfirmasi": 92,
+        "K_Sembuh": 84,
+        "K_Meninggal": 8,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73195743560791,
+          -7.252474323229473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Tambakrejo",
+        "K_Konfirmasi": 112,
+        "K_Sembuh": 95,
+        "K_Meninggal": 16,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.75530338287354,
+          -7.245322170444089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Simokerto",
+        "K_Konfirmasi": 109,
+        "K_Sembuh": 100,
+        "K_Meninggal": 9,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.75397300720215,
+          -7.238978797101518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Kapasan",
+        "K_Konfirmasi": 72,
+        "K_Sembuh": 65,
+        "K_Meninggal": 7,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74740695953369,
+          -7.243193531621063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Simolawang",
+        "K_Konfirmasi": 72,
+        "K_Sembuh": 60,
+        "K_Meninggal": 11,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74684906005858,
+          -7.234210565117332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Sidodadi",
+        "K_Konfirmasi": 36,
+        "K_Sembuh": 33,
+        "K_Meninggal": 3,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7457332611084,
+          -7.2385956374647575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Perak Timur",
+        "K_Konfirmasi": 71,
+        "K_Sembuh": 64,
+        "K_Meninggal": 7,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73234367370604,
+          -7.226164059440451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Nyamplungan",
+        "K_Konfirmasi": 41,
+        "K_Sembuh": 38,
+        "K_Meninggal": 3,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74122714996336,
+          -7.229484856934383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Krembangan Utara",
+        "K_Konfirmasi": 83,
+        "K_Sembuh": 71,
+        "K_Meninggal": 9,
+        "Perawatan": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73534774780272,
+          -7.228590798471948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Bongkaran",
+        "K_Konfirmasi": 40,
+        "K_Sembuh": 37,
+        "K_Meninggal": 3,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74084091186523,
+          -7.241618332420958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Perak Utara",
+        "K_Konfirmasi": 122,
+        "K_Sembuh": 118,
+        "K_Meninggal": 4,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.72873878479002,
+          -7.211560775866463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Pegirian",
+        "K_Konfirmasi": 100,
+        "K_Sembuh": 93,
+        "K_Meninggal": 7,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.75002479553223,
+          -7.224120479621338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Ujung",
+        "K_Konfirmasi": 85,
+        "K_Sembuh": 79,
+        "K_Meninggal": 5,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74272918701172,
+          -7.207856661091794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Sidotopo",
+        "K_Konfirmasi": 107,
+        "K_Sembuh": 99,
+        "K_Meninggal": 7,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74762153625488,
+          -7.229570005267088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Ampel",
+        "K_Konfirmasi": 65,
+        "K_Sembuh": 58,
+        "K_Meninggal": 7,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73963928222656,
+          -7.227611589554195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Wonokusumo",
+        "K_Konfirmasi": 199,
+        "K_Sembuh": 176,
+        "K_Meninggal": 23,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.75165557861328,
+          -7.214498500522321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Krembangan Selatan",
+        "K_Konfirmasi": 93,
+        "K_Sembuh": 85,
+        "K_Meninggal": 8,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.734317779541,
+          -7.2403837129849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Perak Barat",
+        "K_Konfirmasi": 128,
+        "K_Sembuh": 121,
+        "K_Meninggal": 5,
+        "Perawatan": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.72582054138184,
+          -7.222247190004035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Kemayoran",
+        "K_Konfirmasi": 202,
+        "K_Sembuh": 189,
+        "K_Meninggal": 13,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.72873878479002,
+          -7.237701597046729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Dupak",
+        "K_Konfirmasi": 145,
+        "K_Sembuh": 128,
+        "K_Meninggal": 15,
+        "Perawatan": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.71809577941895,
+          -7.244470716121197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Morokrembangan",
+        "K_Konfirmasi": 225,
+        "K_Sembuh": 206,
+        "K_Meninggal": 19,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.71354675292969,
+          -7.23135811654543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Kenjeran",
+        "K_Konfirmasi": 68,
+        "K_Sembuh": 66,
+        "K_Meninggal": 2,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.79233932495117,
+          -7.234849170537242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Bulak",
+        "K_Konfirmasi": 139,
+        "K_Sembuh": 135,
+        "K_Meninggal": 4,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.77714729309082,
+          -7.233061073084719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Kedung Cowek",
+        "K_Konfirmasi": 15,
+        "K_Sembuh": 14,
+        "K_Meninggal": 1,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7786922454834,
+          -7.222587788693642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Sukolilo Baru",
+        "K_Konfirmasi": 53,
+        "K_Sembuh": 47,
+        "K_Meninggal": 6,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.79465675354004,
+          -7.244385570600434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Tanah Kali Kedinding",
+        "K_Konfirmasi": 312,
+        "K_Sembuh": 290,
+        "K_Meninggal": 20,
+        "Perawatan": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.77045249938965,
+          -7.228888818156053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Sidotopo Wetan",
+        "K_Konfirmasi": 224,
+        "K_Sembuh": 205,
+        "K_Meninggal": 18,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.76212692260742,
+          -7.223779882086501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Bulak Banteng",
+        "K_Konfirmasi": 117,
+        "K_Sembuh": 107,
+        "K_Meninggal": 9,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.76092529296875,
+          -7.209644858213396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Tambak Wedi",
+        "K_Konfirmasi": 81,
+        "K_Sembuh": 77,
+        "K_Meninggal": 4,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.77234077453613,
+          -7.215435162346133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Rangkah",
+        "K_Konfirmasi": 104,
+        "K_Sembuh": 96,
+        "K_Meninggal": 8,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.76049613952637,
+          -7.248131958295383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Morokrembangan",
+        "K_Konfirmasi": 171,
+        "K_Sembuh": 161,
+        "K_Meninggal": 9,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.75191307067871,
+          -7.252474323229473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Ploso",
+        "K_Konfirmasi": 198,
+        "K_Sembuh": 191,
+        "K_Meninggal": 7,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.76418685913086,
+          -7.253581193868185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Pacar Keling",
+        "K_Konfirmasi": 144,
+        "K_Sembuh": 132,
+        "K_Meninggal": 11,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.75320053100586,
+          -7.259626362399821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Pacar Kembang",
+        "K_Konfirmasi": 254,
+        "K_Sembuh": 228,
+        "K_Meninggal": 22,
+        "Perawatan": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.76676177978516,
+          -7.259626362399821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Gading",
+        "K_Konfirmasi": 220,
+        "K_Sembuh": 202,
+        "K_Meninggal": 15,
+        "Perawatan": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.76993751525879,
+          -7.2431083858590615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Kapas Madya Baru",
+        "K_Konfirmasi": 167,
+        "K_Sembuh": 154,
+        "K_Meninggal": 11,
+        "Perawatan": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.76641845703125,
+          -7.240170847223261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Dukuh Setro",
+        "K_Konfirmasi": 140,
+        "K_Sembuh": 132,
+        "K_Meninggal": 7,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.77796268463135,
+          -7.237275862891606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Pucang Sewu",
+        "K_Konfirmasi": 71,
+        "K_Sembuh": 67,
+        "K_Meninggal": 4,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.752685546875,
+          -7.2884036551476505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Kertajaya",
+        "K_Konfirmasi": 164,
+        "K_Sembuh": 146,
+        "K_Meninggal": 16,
+        "Perawatan": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.75431632995605,
+          -7.281337212789438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Baratajaya",
+        "K_Konfirmasi": 105,
+        "K_Sembuh": 91,
+        "K_Meninggal": 12,
+        "Perawatan": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.75955200195312,
+          -7.296151072283195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Mojo",
+        "K_Konfirmasi": 456,
+        "K_Sembuh": 426,
+        "K_Meninggal": 28,
+        "Perawatan": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.76757717132567,
+          -7.271929306492841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Gubeng",
+        "K_Konfirmasi": 154,
+        "K_Sembuh": 145,
+        "K_Meninggal": 9,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74890899658203,
+          -7.272482718204753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Airlangga",
+        "K_Konfirmasi": 116,
+        "K_Sembuh": 110,
+        "K_Meninggal": 5,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.75732040405273,
+          -7.27290841905742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Kali Rungkut",
+        "K_Konfirmasi": 270,
+        "K_Sembuh": 255,
+        "K_Meninggal": 14,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.76942253112793,
+          -7.320754616887518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Rungkut Kidul",
+        "K_Konfirmasi": 130,
+        "K_Sembuh": 119,
+        "K_Meninggal": 7,
+        "Perawatan": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.77272701263428,
+          -7.32939533236387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Kedung Baruk",
+        "K_Konfirmasi": 164,
+        "K_Sembuh": 152,
+        "K_Meninggal": 12,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.77684688568115,
+          -7.315859555991507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Medokan Ayu",
+        "K_Konfirmasi": 219,
+        "K_Sembuh": 204,
+        "K_Meninggal": 7,
+        "Perawatan": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.80143737792967,
+          -7.325947579278934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Penjaringansari",
+        "K_Konfirmasi": 116,
+        "K_Sembuh": 113,
+        "K_Meninggal": 3,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.78598785400389,
+          -7.318285810279246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Wonorejo",
+        "K_Konfirmasi": 140,
+        "K_Sembuh": 136,
+        "K_Meninggal": 3,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.81044960021973,
+          -7.310368510745667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Tenggilis Mejoyo",
+        "K_Konfirmasi": 91,
+        "K_Sembuh": 87,
+        "K_Meninggal": 4,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.75710582733154,
+          -7.319690477783635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Panjang Jiwo",
+        "K_Konfirmasi": 65,
+        "K_Sembuh": 59,
+        "K_Meninggal": 6,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.76178359985352,
+          -7.31219886666463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Kendangsari",
+        "K_Konfirmasi": 108,
+        "K_Sembuh": 93,
+        "K_Meninggal": 15,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74985313415527,
+          -7.324415236012124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Kutisari",
+        "K_Konfirmasi": 135,
+        "K_Sembuh": 124,
+        "K_Meninggal": 8,
+        "Perawatan": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74843692779541,
+          -7.335865117972371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Gunung Anyar",
+        "K_Konfirmasi": 174,
+        "K_Sembuh": 164,
+        "K_Meninggal": 9,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.78916358947754,
+          -7.338291263332485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Gunung Anyar Tambak",
+        "K_Konfirmasi": 56,
+        "K_Sembuh": 51,
+        "K_Meninggal": 5,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.80667304992674,
+          -7.338206135649048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Rungkut Menanggal",
+        "K_Konfirmasi": 81,
+        "K_Sembuh": 74,
+        "K_Meninggal": 5,
+        "Perawatan": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.76813507080078,
+          -7.3381210079493275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Rungkut Tengah",
+        "K_Konfirmasi": 107,
+        "K_Sembuh": 94,
+        "K_Meninggal": 11,
+        "Perawatan": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.76736259460449,
+          -7.329863543688032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Menur Pumpungan",
+        "K_Konfirmasi": 102,
+        "K_Sembuh": 96,
+        "K_Meninggal": 4,
+        "Perawatan": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.76727676391602,
+          -7.2917239931917575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Semolowaru",
+        "K_Konfirmasi": 116,
+        "K_Sembuh": 109,
+        "K_Meninggal": 7,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.78148174285889,
+          -7.300450405251025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Nginden Jangkungan",
+        "K_Konfirmasi": 81,
+        "K_Sembuh": 76,
+        "K_Meninggal": 5,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.76693344116211,
+          -7.303728086779475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Klampis Ngasem",
+        "K_Konfirmasi": 129,
+        "K_Sembuh": 119,
+        "K_Meninggal": 7,
+        "Perawatan": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.77766227722168,
+          -7.288063106264295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Gebang Putih",
+        "K_Konfirmasi": 35,
+        "K_Sembuh": 34,
+        "K_Meninggal": 1,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.78727531433104,
+          -7.281933182108856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Keputih",
+        "K_Konfirmasi": 130,
+        "K_Sembuh": 122,
+        "K_Meninggal": 6,
+        "Perawatan": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.79345512390137,
+          -7.2951294425329944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Medokan Semampir",
+        "K_Konfirmasi": 106,
+        "K_Sembuh": 101,
+        "K_Meninggal": 4,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.78487205505371,
+          -7.306622642692273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Mulyorejo",
+        "K_Konfirmasi": 154,
+        "K_Sembuh": 148,
+        "K_Meninggal": 6,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.78358459472656,
+          -7.27103533228662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Kejawen Putih Tambak",
+        "K_Konfirmasi": 53,
+        "K_Sembuh": 49,
+        "K_Meninggal": 3,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.81680107116699,
+          -7.271290753670005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Manyar Sabrangan",
+        "K_Konfirmasi": 131,
+        "K_Sembuh": 118,
+        "K_Meninggal": 8,
+        "Perawatan": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.77371406555176,
+          -7.2812520742505775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Dukuh Sutorejo",
+        "K_Konfirmasi": 79,
+        "K_Sembuh": 72,
+        "K_Meninggal": 7,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7914810180664,
+          -7.256731503095935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Kalisari",
+        "K_Konfirmasi": 129,
+        "K_Sembuh": 123,
+        "K_Meninggal": 6,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.80693054199219,
+          -7.264905175512713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Kalijudan",
+        "K_Konfirmasi": 124,
+        "K_Sembuh": 115,
+        "K_Meninggal": 9,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.78375625610352,
+          -7.255071207737797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Sawahan",
+        "K_Konfirmasi": 126,
+        "K_Sembuh": 114,
+        "K_Meninggal": 10,
+        "Perawatan": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.72032737731934,
+          -7.262606345162501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Petemon",
+        "K_Konfirmasi": 227,
+        "K_Sembuh": 214,
+        "K_Meninggal": 12,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.72951126098633,
+          -7.263117197367378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Putat Jaya",
+        "K_Konfirmasi": 256,
+        "K_Sembuh": 233,
+        "K_Meninggal": 22,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.71955490112303,
+          -7.277591101790379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Banyu Urip",
+        "K_Konfirmasi": 225,
+        "K_Sembuh": 206,
+        "K_Meninggal": 16,
+        "Perawatan": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.72032737731934,
+          -7.2725678584075775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Kupang Krajan",
+        "K_Konfirmasi": 134,
+        "K_Sembuh": 122,
+        "K_Meninggal": 10,
+        "Perawatan": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.721529006958,
+          -7.269119667280724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Pakis",
+        "K_Konfirmasi": 243,
+        "K_Sembuh": 233,
+        "K_Meninggal": 7,
+        "Perawatan": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.72341728210449,
+          -7.2869563206056025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Jagir",
+        "K_Konfirmasi": 130,
+        "K_Sembuh": 117,
+        "K_Meninggal": 9,
+        "Perawatan": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7420425415039,
+          -7.302365936334781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Darmo",
+        "K_Konfirmasi": 93,
+        "K_Sembuh": 87,
+        "K_Meninggal": 6,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73333072662352,
+          -7.289553005717676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Sawunggaling",
+        "K_Konfirmasi": 211,
+        "K_Sembuh": 194,
+        "K_Meninggal": 17,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.72766590118408,
+          -7.296534182838233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Wonokromo",
+        "K_Konfirmasi": 305,
+        "K_Sembuh": 273,
+        "K_Meninggal": 29,
+        "Perawatan": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73277282714844,
+          -7.305005099051821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Ngagelrejo",
+        "K_Konfirmasi": 302,
+        "K_Sembuh": 278,
+        "K_Meninggal": 21,
+        "Perawatan": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74998188018799,
+          -7.297257835213936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Ngagel",
+        "K_Konfirmasi": 94,
+        "K_Sembuh": 82,
+        "K_Meninggal": 11,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74534702301025,
+          -7.290489511409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Warugunung",
+        "K_Konfirmasi": 70,
+        "K_Sembuh": 59,
+        "K_Meninggal": 10,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.67402172088623,
+          -7.3419943017943075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Karang Pilang",
+        "K_Konfirmasi": 44,
+        "K_Sembuh": 41,
+        "K_Meninggal": 3,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.69020080566406,
+          -7.339227666775184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Kedurus",
+        "K_Konfirmasi": 194,
+        "K_Sembuh": 178,
+        "K_Meninggal": 15,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.70607948303221,
+          -7.319690477783635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Kebraon",
+        "K_Konfirmasi": 200,
+        "K_Sembuh": 186,
+        "K_Meninggal": 11,
+        "Perawatan": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.70054340362549,
+          -7.329608155754045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Dukuh Kupang",
+        "K_Konfirmasi": 97,
+        "K_Sembuh": 92,
+        "K_Meninggal": 4,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.70989894866943,
+          -7.2818054744642495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Dukuh Pakis",
+        "K_Konfirmasi": 142,
+        "K_Sembuh": 134,
+        "K_Meninggal": 6,
+        "Perawatan": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.71225929260254,
+          -7.294235514588565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Gunungsari",
+        "K_Konfirmasi": 75,
+        "K_Sembuh": 65,
+        "K_Meninggal": 9,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.71457672119139,
+          -7.302280801794196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Pradah Kali Kendal",
+        "K_Konfirmasi": 125,
+        "K_Sembuh": 114,
+        "K_Meninggal": 8,
+        "Perawatan": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.68651008605957,
+          -7.289850985013685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Wiyung",
+        "K_Konfirmasi": 190,
+        "K_Sembuh": 185,
+        "K_Meninggal": 4,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6939344406128,
+          -7.310964441403395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Babatan",
+        "K_Konfirmasi": 248,
+        "K_Sembuh": 227,
+        "K_Meninggal": 17,
+        "Perawatan": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.67990112304688,
+          -7.303344982386393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Jajar Tunggal",
+        "K_Konfirmasi": 92,
+        "K_Sembuh": 91,
+        "K_Meninggal": 1,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.7053928375244,
+          -7.30917664704482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Balas Klumprik",
+        "K_Konfirmasi": 97,
+        "K_Sembuh": 84,
+        "K_Meninggal": 8,
+        "Perawatan": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.6864242553711,
+          -7.327565047011313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Gayungan",
+        "K_Konfirmasi": 100,
+        "K_Sembuh": 96,
+        "K_Meninggal": 2,
+        "Perawatan": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.72461891174316,
+          -7.333736909398663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Ketintang",
+        "K_Konfirmasi": 150,
+        "K_Sembuh": 142,
+        "K_Meninggal": 6,
+        "Perawatan": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.72916793823242,
+          -7.316881138352193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Menanggal",
+        "K_Konfirmasi": 68,
+        "K_Sembuh": 63,
+        "K_Meninggal": 5,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.72457599639893,
+          -7.3396533040521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Dukuh Menanggal",
+        "K_Konfirmasi": 41,
+        "K_Sembuh": 36,
+        "K_Meninggal": 5,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73084163665771,
+          -7.343781964498745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Jemur Wonosari",
+        "K_Konfirmasi": 166,
+        "K_Sembuh": 154,
+        "K_Meninggal": 12,
+        "Perawatan": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73865222930908,
+          -7.322159276616749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Sidosermo",
+        "K_Konfirmasi": 108,
+        "K_Sembuh": 95,
+        "K_Meninggal": 11,
+        "Perawatan": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.75126934051514,
+          -7.307644246185289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Bendul Merisi",
+        "K_Konfirmasi": 118,
+        "K_Sembuh": 110,
+        "K_Meninggal": 7,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74302959442139,
+          -7.310411077247594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Margorejo",
+        "K_Konfirmasi": 64,
+        "K_Sembuh": 59,
+        "K_Meninggal": 2,
+        "Perawatan": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74199962615967,
+          -7.31611495180093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Siwalankerto",
+        "K_Konfirmasi": 112,
+        "K_Sembuh": 101,
+        "K_Meninggal": 10,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.73603439331055,
+          -7.335737425744905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Kebonsari",
+        "K_Konfirmasi": 97,
+        "K_Sembuh": 87,
+        "K_Meninggal": 9,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.71612167358398,
+          -7.327565047011313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Pagesangan",
+        "K_Konfirmasi": 123,
+        "K_Sembuh": 111,
+        "K_Meninggal": 11,
+        "Perawatan": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.71204471588135,
+          -7.334630758238971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Kelurahan": "Jambangan",
+        "K_Konfirmasi": 84,
+        "K_Sembuh": 78,
+        "K_Meninggal": 4,
+        "Perawatan": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.71427631378172,
+          -7.3193499527341865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {"Kelurahan": "Karah",
+        "K_Konfirmasi": 131,
+        "K_Sembuh": 121,
+        "K_Meninggal": 6,
+        "Perawatan": 4},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.72054195404051,
+          -7.314880537368122
+        ]
+      }
+    }
+  ]
+}
